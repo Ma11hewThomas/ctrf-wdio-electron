@@ -27,7 +27,7 @@
     "electron": "^31.1.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.3",
-    "wdio-ctrf-json-reporter": "^0.0.9",
+    "wdio-ctrf-json-reporter": "^0.0.10",
     "wdio-electron-service": "^6.6.1"
   },
   "dependencies": {
